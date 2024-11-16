@@ -4,13 +4,13 @@
 <!-- Shields Section -->
 <p align="center">
   <a href="https://github.com/yourusername/GPToPDF/stars">
-    <img src="https://img.shields.io/github/stars/yourusername/GPToPDF?style=for-the-badge" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/bysiber/GPToPDF?style=for-the-badge" alt="GitHub Stars">
   </a>
   <a href="https://github.com/yourusername/GPToPDF/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/GPToPDF?style=for-the-badge" alt="GitHub Issues">
+    <img src="https://img.shields.io/github/issues/bysiber/GPToPDF?style=for-the-badge" alt="GitHub Issues">
   </a>
   <a href="https://github.com/yourusername/GPToPDF/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/GPToPDF?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/license/bysiber/GPToPDF?style=for-the-badge" alt="License">
   </a>
 </p>
 
