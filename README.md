@@ -28,3 +28,6 @@ This Chrome extension allows you to easily save your ChatGPT conversations as PD
 
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+#Attribution
+Icons created by [Icon Desai - Flaticon](https://www.flaticon.com/free-icons/pdf)
