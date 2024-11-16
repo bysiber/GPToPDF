@@ -1,7 +1,7 @@
 # GPToPDF
 **The best Chrome extension for exporting ChatGPT conversations to PDF!**
 
-## Preview
+## Extension Pop-up
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c23b5e5-9079-44d8-a95d-1fbad5c7194b" alt="Main Screenshot" width="600">
 </p>
