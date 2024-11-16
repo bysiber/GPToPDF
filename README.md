@@ -18,6 +18,7 @@
 ## 📸 Preview
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c23b5e5-9079-44d8-a95d-1fbad5c7194b" alt="Main Screenshot" width="600">
+  <img src="https://github.com/user-attachments/assets/fafdf3fb-7e4e-4cef-86d9-5fd9a1832fa3" alt="Additional Screenshot" width="600">
 </p>
 
 ---
