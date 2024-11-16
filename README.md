@@ -1,5 +1,7 @@
 # GPToPDF
 Best Chrome Extension that exports ChatGPT conversations into PDF !
+![image](https://github.com/user-attachments/assets/0c23b5e5-9079-44d8-a95d-1fbad5c7194b)
+
 
 # Save ChatGPT Conversations as PDF – Chrome Extension
 
