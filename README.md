@@ -9,7 +9,7 @@
 ---
 
 <!-- Icons and Additional Images Section -->
-## Visuals
+## Example PDF
 <p align="center">
   <img src="https://github.com/user-attachments/assets/442248e8-d02a-4be7-aedc-e2994b973f14" alt="Extension Icon" width="128">
 </p>
