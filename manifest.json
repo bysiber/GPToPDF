@@ -1,0 +1,19 @@
+{
+    "name": "GPToPDF",
+    "description": "Download ChatGPT conversations into PDF",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "128": "icon128.png"
+        }
+    },
+    "icons": {
+        "128": "icon128.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ]
+}

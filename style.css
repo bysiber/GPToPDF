@@ -1,0 +1,86 @@
+/* style.css */
+:root {
+  --primary: #2563eb;
+  --background: #ffffff;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  margin: 0;
+  padding: 1rem;
+  background: var(--background);
+  color: var(--text);
+  min-width: 300px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 100%;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 1.5rem 0;
+  color: var(--text);
+}
+
+.button-container {
+  margin: 1.5rem 0;
+}
+
+.export-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: var(--primary);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.export-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+}
+
+.pdf-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.footer {
+  margin-top: 1.5rem;
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.footer a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
